@@ -37,6 +37,9 @@ The neural network is trained using a dataset of 9,500+ data points and designed
 2. Model Training: Using a neural network to fit the thermodynamic property data.
 3. Evaluation: Assessing the model's performance using appropriate metrics.
 
+![Image](https://github.com/user-attachments/assets/76ae72c5-a063-4fdb-9e23-38d1685ca061)
+![Image](https://github.com/user-attachments/assets/eb68112d-63f8-4b85-ac98-8c4deee308e5)
+
 ## Installation
 
 To set up the project on your local machine, follow these steps:
